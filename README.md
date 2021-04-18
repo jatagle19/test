@@ -6,3 +6,5 @@ Plain text!
 
 Just trying this out.
 Edit ko lang ulit.
+
+Edited from Linux.
