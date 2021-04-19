@@ -8,5 +8,10 @@ Numbered List:
 Bullet Points:
 * Star bullet
 
-Dashes:
+Using dashes to create list:
 - Trying dash bullet
+    - this is a another
+    - test 
+        - 1
+        - 2
+        - 3
