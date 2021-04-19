@@ -30,6 +30,14 @@ Using dashes to create list:
     1. Item 3a
     1. Item 3b
 
+### Nested Lists:
+1. Item 1
+    - bullet 1
+    - bullet 2
+        1. bullet 2.1
+        2. bullet 2.2
+    - bullet 3
+2. Item 2
 ## Embed Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -85,3 +93,20 @@ __Bold 2__
 _This is sentence is italicized. This word is **bold**.__
 
 **This sentence is bold. This word is *italicized*.**
+
+~~Strikethrough~~
+
+### Links
+[link to Google!](http://google.com)
+
+### Tables
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+### SHA references
+Commit's SHA-1 hash will be converted to commit on GitHub
+
+Example:
+6d41aacc1199011f3e91633b0b500fc073e96704
