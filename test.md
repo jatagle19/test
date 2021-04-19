@@ -54,15 +54,16 @@ if (x > 0){
 
 ## Extras
 ### Direct comment:
-@sayaka19, just tried mentioning you LOL
+@sayaka19 , just tried mentioning you LOL
 
 ### Tasks:
+- [ ] I don't think this is working RIP
 - [x] marked item
 - [ ] unmarked item
 
 ### Emphasis:
 *Italic 1*
-
+-----------
 _Italic 2_
 
 **Bold 1**
