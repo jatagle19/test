@@ -63,7 +63,6 @@ if (x > 0){
 
 ### Emphasis:
 *Italic 1*
------------
 _Italic 2_
 
 **Bold 1**
