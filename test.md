@@ -58,13 +58,15 @@ if (x > 0){
 
 ### Tasks:
 - [x] marked item
-- [] unmarked item
+- [ ] unmarked item
 
 ### Emphasis:
 *Italic 1*
+
 _Italic 2_
 
 **Bold 1**
+
 __Bold 2__
 
 _This is sentence is italicized. This word is **bold**.__
