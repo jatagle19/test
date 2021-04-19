@@ -51,3 +51,22 @@ if (x > 0){
     return true
 }
 ```
+
+## Extras
+### Direct comment:
+@sayaka19, just tried mentioning you LOL
+
+### Tasks:
+- [x] marked item
+- [] unmarked item
+
+### Emphasis:
+*Italic 1*
+_Italic 2_
+
+**Bold 1**
+__Bold 2__
+
+_This is sentence is italicized. This word is **bold**.__
+
+**This sentence is bold. This word is *italicized*.**
