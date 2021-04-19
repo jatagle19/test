@@ -23,5 +23,31 @@ Using dashes to create list:
 ###### Heading 6
 
 ## Quoting Someone:
-> No one can make you feel inferior without your consent."
+> No one can make you feel inferior without your consent.
 > -Eleanor Roosevelt
+
+## Inserting Codes
+
+### Inline Code
+Example: `x += 1`
+
+### Block of Codes
+
+#### This is done by indentation:
+    if (x > 0){
+        return true
+    }
+
+##### Multiple lines of code without indentation:
+```
+if (x > 0){
+    return true
+}
+```
+
+##### Syntax Highlighting
+```c
+if (x > 0){
+    return true
+}
+```
