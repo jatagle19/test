@@ -1,12 +1,12 @@
 # Markdown Language Testing
 
 ## Creating Lists:
-Numbered List:
+### Numbered List:
 1. One
 2. Two
 3. Three
 
-Bullet Points:
+### Bullet Points:
 * Star bullet
 
 Using dashes to create list:
@@ -19,3 +19,9 @@ Using dashes to create list:
 
 ## Embed Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+###### Heading 6
+
+## Quoting Someone:
+> No one can make you feel inferior without your consent."
+> -Eleanor Roosevelt
