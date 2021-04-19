@@ -109,6 +109,6 @@ Content in the first column | Content in the second column
 :yum:
 :hugs:
 
-:thinking:
 
+:thinking:
 :hand_over_mouth:
