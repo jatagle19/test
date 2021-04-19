@@ -32,7 +32,7 @@ Using dashes to create list:
 
 ## Embed Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+[//]: # (Comment to dapat! Format: ![Alt Test] (url))
 ###### Heading 6
 
 ## Quoting Someone:
