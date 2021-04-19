@@ -1,5 +1,6 @@
 # Markdown Language Testing
 
+## Creating Lists:
 Numbered List:
 1. One
 2. Two
@@ -15,3 +16,6 @@ Using dashes to create list:
         - 1
         - 2
         - 3
+
+## Embed Images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
