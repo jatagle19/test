@@ -74,9 +74,6 @@ if (x > 0){
 ```
 
 ## Extras
-### Direct comment:
-@sayaka19 , just tried mentioning you LOL
-
 ### Tasks:
 - [ ] I don't think this is working RIP
 - [x] marked item
@@ -105,8 +102,13 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-### SHA references
-Commit's SHA-1 hash will be converted to commit on GitHub
+### Emojis
+:rofl:
+:grin:
 
-Example:
-6d41aacc1199011f3e91633b0b500fc073e96704
+:yum:
+:hugs:
+
+:thinking:
+
+:hand_over_mouth:
